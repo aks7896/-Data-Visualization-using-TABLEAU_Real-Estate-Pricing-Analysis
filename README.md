@@ -4,10 +4,10 @@ The project aimed to enhance the House Recommendation System by leveraging insig
 
 # -Skills & Tools Covered
 
-Creating views and appropriate Charts
-Data Filters and their application
-Data Modification and transformation using Calculations
-Quick Table Calculations
-Parameters to switch between Measure
-Filter Actions to navigate b/w dashboards
-Filter Actions to navigate b/w dashboards
+Creating views and appropriate Charts,
+Data Filters and their application,
+Data Modification and transformation using Calculations,
+Quick Table Calculations,
+Parameters to switch between Measure,
+Filter Actions to navigate b/w dashboards,
+Filter Actions to navigate b/w dashboards.
